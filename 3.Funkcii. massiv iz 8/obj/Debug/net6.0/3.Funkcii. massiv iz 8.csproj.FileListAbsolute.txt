@@ -1,0 +1,15 @@
+D:\Обучениенорм\Введение в программирование\Домашка семинар 4\3.Funkcii. massiv iz 8\obj\Debug\net6.0\3.Funkcii. massiv iz 8.csproj.AssemblyReference.cache
+D:\Обучениенорм\Введение в программирование\Домашка семинар 4\3.Funkcii. massiv iz 8\obj\Debug\net6.0\3.Funkcii. massiv iz 8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучениенорм\Введение в программирование\Домашка семинар 4\3.Funkcii. massiv iz 8\obj\Debug\net6.0\3.Funkcii. massiv iz 8.AssemblyInfoInputs.cache
+D:\Обучениенорм\Введение в программирование\Домашка семинар 4\3.Funkcii. massiv iz 8\obj\Debug\net6.0\3.Funkcii. massiv iz 8.AssemblyInfo.cs
+D:\Обучениенорм\Введение в программирование\Домашка семинар 4\3.Funkcii. massiv iz 8\obj\Debug\net6.0\3.Funkcii. massiv iz 8.csproj.CoreCompileInputs.cache
+D:\Обучениенорм\Введение в программирование\Домашка семинар 4\3.Funkcii. massiv iz 8\bin\Debug\net6.0\3.Funkcii. massiv iz 8.exe
+D:\Обучениенорм\Введение в программирование\Домашка семинар 4\3.Funkcii. massiv iz 8\bin\Debug\net6.0\3.Funkcii. massiv iz 8.deps.json
+D:\Обучениенорм\Введение в программирование\Домашка семинар 4\3.Funkcii. massiv iz 8\bin\Debug\net6.0\3.Funkcii. massiv iz 8.runtimeconfig.json
+D:\Обучениенорм\Введение в программирование\Домашка семинар 4\3.Funkcii. massiv iz 8\bin\Debug\net6.0\3.Funkcii. massiv iz 8.dll
+D:\Обучениенорм\Введение в программирование\Домашка семинар 4\3.Funkcii. massiv iz 8\bin\Debug\net6.0\3.Funkcii. massiv iz 8.pdb
+D:\Обучениенорм\Введение в программирование\Домашка семинар 4\3.Funkcii. massiv iz 8\obj\Debug\net6.0\3.Funkcii. massiv iz 8.dll
+D:\Обучениенорм\Введение в программирование\Домашка семинар 4\3.Funkcii. massiv iz 8\obj\Debug\net6.0\refint\3.Funkcii. massiv iz 8.dll
+D:\Обучениенорм\Введение в программирование\Домашка семинар 4\3.Funkcii. massiv iz 8\obj\Debug\net6.0\3.Funkcii. massiv iz 8.pdb
+D:\Обучениенорм\Введение в программирование\Домашка семинар 4\3.Funkcii. massiv iz 8\obj\Debug\net6.0\3.Funkcii. massiv iz 8.genruntimeconfig.cache
+D:\Обучениенорм\Введение в программирование\Домашка семинар 4\3.Funkcii. massiv iz 8\obj\Debug\net6.0\ref\3.Funkcii. massiv iz 8.dll

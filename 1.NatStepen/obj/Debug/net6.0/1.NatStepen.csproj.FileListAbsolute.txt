@@ -1,0 +1,15 @@
+D:\Обучениенорм\Введение в программирование\Домашка семинар 4\1.NatStepen\obj\Debug\net6.0\1.NatStepen.csproj.AssemblyReference.cache
+D:\Обучениенорм\Введение в программирование\Домашка семинар 4\1.NatStepen\obj\Debug\net6.0\1.NatStepen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучениенорм\Введение в программирование\Домашка семинар 4\1.NatStepen\obj\Debug\net6.0\1.NatStepen.AssemblyInfoInputs.cache
+D:\Обучениенорм\Введение в программирование\Домашка семинар 4\1.NatStepen\obj\Debug\net6.0\1.NatStepen.AssemblyInfo.cs
+D:\Обучениенорм\Введение в программирование\Домашка семинар 4\1.NatStepen\obj\Debug\net6.0\1.NatStepen.csproj.CoreCompileInputs.cache
+D:\Обучениенорм\Введение в программирование\Домашка семинар 4\1.NatStepen\bin\Debug\net6.0\1.NatStepen.exe
+D:\Обучениенорм\Введение в программирование\Домашка семинар 4\1.NatStepen\bin\Debug\net6.0\1.NatStepen.deps.json
+D:\Обучениенорм\Введение в программирование\Домашка семинар 4\1.NatStepen\bin\Debug\net6.0\1.NatStepen.runtimeconfig.json
+D:\Обучениенорм\Введение в программирование\Домашка семинар 4\1.NatStepen\bin\Debug\net6.0\1.NatStepen.dll
+D:\Обучениенорм\Введение в программирование\Домашка семинар 4\1.NatStepen\bin\Debug\net6.0\1.NatStepen.pdb
+D:\Обучениенорм\Введение в программирование\Домашка семинар 4\1.NatStepen\obj\Debug\net6.0\1.NatStepen.dll
+D:\Обучениенорм\Введение в программирование\Домашка семинар 4\1.NatStepen\obj\Debug\net6.0\refint\1.NatStepen.dll
+D:\Обучениенорм\Введение в программирование\Домашка семинар 4\1.NatStepen\obj\Debug\net6.0\1.NatStepen.pdb
+D:\Обучениенорм\Введение в программирование\Домашка семинар 4\1.NatStepen\obj\Debug\net6.0\1.NatStepen.genruntimeconfig.cache
+D:\Обучениенорм\Введение в программирование\Домашка семинар 4\1.NatStepen\obj\Debug\net6.0\ref\1.NatStepen.dll
