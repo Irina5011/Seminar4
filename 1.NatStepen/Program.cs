@@ -4,17 +4,15 @@
 int A = Prompt("Введите А = > ");
 int B = Prompt("Введите B = > ");
 
-int result = 1;
-int i = 0;
+int i = 0, ans = 1;
 
-while(i<B)
-
+while(i < B)
 {
-    result = A*A;
-   i++;
+    ans = ans*A;
+    i++;
 }
 
- Console.WriteLine($"{A} в степени {B} равно {result}");
+ Console.WriteLine($"{A} в степени {B} равно {ans}");
 
 int Prompt(string message)
 {
